@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleContacts</string>
+    <string name="addBtn_name">添加</string>
+</resources>
